@@ -1,12 +1,12 @@
 # DTUPay
 This was a university project that was completed over the course of 3 weeks by:
 FRED Software Development, which includes:
-- Andreas Stensig Jensen 	S134408
-- Claudia-Ioana Satnoianu 	S172392
-- Connor Mcshane		S171347
-- Jonas Lind Dencker Otte	S047620
-- Lina Mhiri			S171361
-- Thomas Robert Grosman	S131058
+- Andreas Stensig Jensen 	S134408@student.dtu.dk
+- Claudia-Ioana Satnoianu 	S172392@student.dtu.dk
+- Connor Mcshane		S171347@student.dtu.dk
+- Jonas Lind Dencker Otte	S047620@student.dtu.dk
+- Lina Mhiri			S171361@student.dtu.dk
+- Thomas Robert Grosman	S131058@student.dtu.dk
 
 # Executive Summary
 
